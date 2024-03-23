@@ -1,6 +1,7 @@
-# Top10Bot
+# Top1Fingersz
 
 Hello Guys. This is Simple Code For Top10Fingers
+~~No More Maintained.~~
 
 ## Requirements
 Requirements:
